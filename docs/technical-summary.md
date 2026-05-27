@@ -4,7 +4,7 @@
 
 - File: `reports/AdventureWorks_Report.pbix`
 - Report canvas: 1280 x 720 on primary report pages
-- Report pages: 6
+- Business-facing pages documented: 4
 - Main pages: Executive Dashboard, Map, Product Detail, Customer Detail
 - Supporting page: Category Tooltip
 - Power BI features: slicers, drillthrough, tooltip page, bookmarks, buttons, maps, KPI cards, gauges, line/area charts, donut charts, tables, and dynamic metric selectors
@@ -52,4 +52,4 @@ The model exposes measures and fields for:
 
 This project is best reviewed by opening the PBIX in Power BI Desktop and starting on the `EXEC Dashboard` page. The repository documentation is intentionally written to explain the business and technical decisions before the reviewer opens the report.
 
-Because Power BI Desktop is required to render report pages, screenshots should be exported manually from Power BI Desktop and added to an optional `screenshots/` folder for an even stronger GitHub preview.
+Dashboard screenshots are included in the `screenshots/` folder and embedded in the README so reviewers can preview the report before downloading the PBIX file.

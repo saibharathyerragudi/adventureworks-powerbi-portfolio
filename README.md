@@ -6,6 +6,17 @@ An interactive Power BI report built for executive sales performance analysis, c
 
 This project is packaged as a portfolio case study: the PBIX report is included, and the documentation explains the business problem, dashboard design, data model, report pages, and analytical choices behind the build.
 
+## Project At A Glance
+
+| Area | Details |
+|---|---|
+| Tool | Power BI Desktop |
+| Domain | Retail sales and customer analytics |
+| Dataset | AdventureWorks business dataset |
+| Deliverable | Interactive `.pbix` dashboard with portfolio documentation |
+| Analysis Focus | Executive KPIs, product performance, customer segmentation, geographic sales, returns, targets |
+| Key Techniques | DAX measures, star-schema modeling, drillthrough, tooltips, slicers, bookmarks, metric selectors |
+
 ## Business Objective
 
 AdventureWorks needs a single analytics experience for leaders to monitor sales performance, understand revenue and profit movement, identify product and customer patterns, and drill into operational details without switching reports.
