@@ -119,13 +119,9 @@ adventureworks-powerbi-portfolio/
 
 ## Project Status
 
-Completed:
+This portfolio project is complete and ready for review:
 
 - PBIX report packaged for GitHub.
 - Portfolio README added.
 - Dashboard pages and report architecture documented.
 - Technical summary added for recruiter and reviewer context.
-
-Recommended future enhancement:
-
-- Add exported PNG screenshots of each report page to the repository after opening the report in Power BI Desktop.
