@@ -28,13 +28,55 @@ reports/AdventureWorks_Report.pbix
 
 Power BI Desktop is required to view, edit, or publish the report.
 
-## Dashboard Preview
+## Dashboard Page Showcase
 
-| Executive Dashboard | Geographic Sales View |
-|---|---|
-| ![Executive Dashboard](screenshots/exec-dashboard.png) | ![Geographic Sales View](screenshots/map-view.png) |
-| Product Detail | Customer Detail |
-| ![Product Detail](screenshots/product-detail.png) | ![Customer Detail](screenshots/customer-detail.png) |
+### Executive Dashboard
+
+![Executive Dashboard](screenshots/exec-dashboard.png)
+
+The executive dashboard is the main leadership view. It summarizes revenue, profit, order volume, and return rate, then combines revenue trending, product category performance, top products, and monthly KPI cards so users can quickly understand overall sales health.
+
+Key questions answered:
+
+- Are revenue, profit, orders, and return rate performing well?
+- Which categories and products are driving order volume?
+- How are monthly revenue, orders, and returns changing over time?
+
+### Geographic Sales View
+
+![Geographic Sales View](screenshots/map-view.png)
+
+The map page shows sales performance by geography. It gives business users a simple way to compare regional concentration across North America, Europe, and Pacific markets, with country-level bubbles for quick visual comparison.
+
+Key questions answered:
+
+- Which regions and countries generate the strongest sales activity?
+- Where is AdventureWorks most geographically concentrated?
+- How does performance vary across major territories?
+
+### Product Detail
+
+![Product Detail](screenshots/product-detail.png)
+
+The product detail page supports drillthrough analysis for an individual product. It compares selected product orders, revenue, and profit against targets, includes a price-adjustment control, and tracks profit and return behavior over time.
+
+Key questions answered:
+
+- Is the selected product meeting order, revenue, and profit targets?
+- How would price adjustments affect profitability?
+- What does the return trend look like for this product?
+
+### Customer Detail
+
+![Customer Detail](screenshots/customer-detail.png)
+
+The customer detail page focuses on customer segmentation and customer-level value. It shows customer count, revenue per customer, income and occupation breakdowns, top customers by revenue, and selected customer KPIs.
+
+Key questions answered:
+
+- Which customers generate the most revenue?
+- How do income level and occupation segments contribute to orders?
+- What are the order and revenue metrics for the top customer?
 
 ## Portfolio Highlights
 
