@@ -116,12 +116,3 @@ adventureworks-powerbi-portfolio/
 2. Open `reports/AdventureWorks_Report.pbix` in Power BI Desktop.
 3. Review the EXEC Dashboard first for the executive summary.
 4. Use navigation buttons, slicers, drillthrough, and tooltip interactions to explore product, customer, and territory performance.
-
-## Project Status
-
-This portfolio project is complete and ready for review:
-
-- PBIX report packaged for GitHub.
-- Portfolio README added.
-- Dashboard pages and report architecture documented.
-- Technical summary added for recruiter and reviewer context.
