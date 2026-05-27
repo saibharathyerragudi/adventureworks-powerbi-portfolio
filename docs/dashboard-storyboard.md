@@ -11,7 +11,7 @@ The report is designed as an executive sales command center for AdventureWorks. 
 3. Move to `Map` to compare regional and country-level performance.
 4. Drill into `Product Detail` to diagnose product-specific trends and return behavior.
 5. Review `Customer Detail` to understand customer segments, occupations, income levels, and individual customer contribution.
-6. Use tooltip and card demo pages as supporting report interactions.
+6. Use tooltip interactions for compact supporting context without leaving the current page.
 
 ## Page-Level Design
 

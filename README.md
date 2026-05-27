@@ -47,7 +47,6 @@ Power BI Desktop is required to view, edit, or publish the report.
 | Product Detail | Drillthrough page for product-level trends, return behavior, and profitability context. |
 | Customer Detail | Customer analytics page for segmentation, customer value, and selected customer performance. |
 | Category Tooltip | Custom tooltip page used to add context to category-level interactions. |
-| New Card Demo | Demonstrates Power BI's newer card visual layout. |
 
 ## Data Model
 

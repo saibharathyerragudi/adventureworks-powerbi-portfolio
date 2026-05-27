@@ -6,7 +6,7 @@
 - Report canvas: 1280 x 720 on primary report pages
 - Report pages: 6
 - Main pages: Executive Dashboard, Map, Product Detail, Customer Detail
-- Supporting pages: Category Tooltip, New Card Demo
+- Supporting page: Category Tooltip
 - Power BI features: slicers, drillthrough, tooltip page, bookmarks, buttons, maps, KPI cards, gauges, line/area charts, donut charts, tables, and dynamic metric selectors
 
 ## Visual Inventory
@@ -18,7 +18,6 @@
 | Product Detail | Drillthrough page, gauges, line chart, area chart, cards, slicers, navigation buttons |
 | Customer Detail | Donut charts, cards, table, slicers, line chart, navigation buttons |
 | Category Tooltip | Multi-row card and area chart |
-| New Card Demo | Card visual |
 
 ## Model Tables
 
