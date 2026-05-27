@@ -28,6 +28,14 @@ reports/AdventureWorks_Report.pbix
 
 Power BI Desktop is required to view, edit, or publish the report.
 
+## Dashboard Preview
+
+| Executive Dashboard | Geographic Sales View |
+|---|---|
+| ![Executive Dashboard](screenshots/exec-dashboard.png) | ![Geographic Sales View](screenshots/map-view.png) |
+| Product Detail | Customer Detail |
+| ![Product Detail](screenshots/product-detail.png) | ![Customer Detail](screenshots/customer-detail.png) |
+
 ## Portfolio Highlights
 
 - Executive KPI dashboard with revenue, profit, order, return, and customer performance.
@@ -104,8 +112,14 @@ adventureworks-powerbi-portfolio/
 │   └── AdventureWorks_Report.pbix
 ├── assets/
 │   └── adventureworks-logo.png
+├── screenshots/
+│   ├── exec-dashboard.png
+│   ├── map-view.png
+│   ├── product-detail.png
+│   └── customer-detail.png
 └── docs/
     ├── dashboard-storyboard.md
+    ├── portfolio-website-copy.md
     └── technical-summary.md
 ```
 
