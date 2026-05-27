@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+~$*
+
+# Power BI local/cache artifacts
+*.pbitmp
+*.pbix.backup
+
+# Optional exports that can get large
+exports/
+screenshots/raw/
